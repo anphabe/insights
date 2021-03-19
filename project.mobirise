@@ -117,7 +117,8 @@
         "header_custom": " <meta property=\"og:url\" content=\"https://insights.anphabe.com/\" />\n  <meta property=\"og:image\" content=\"https://insights.anphabe.com/assets/images/index-meta.jpg\" />",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 1,
+        "meta_image": "@PROJECT_PATH@/assets/images/socialshare-1.jpg"
       },
       "components": [
         {
@@ -904,7 +905,8 @@
         "meta_descr": "Bạn kì vọng gì về lương thưởng, phúc lợi thời khó?",
         "header_custom": " <meta property=\"og:url\" content=\"https://insights.anphabe.com/\" />\n  <meta property=\"og:image\" content=\"https://insights.anphabe.com/assets/images/index-meta.jpg\" />",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/socialshare-1.jpg"
       },
       "components": [
         {
