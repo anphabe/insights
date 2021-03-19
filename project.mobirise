@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Khảo sát xu hướng 2021",
-    "currentPage": "khaosatxuhuong2021.html",
+    "currentPage": "thongtinquatang.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -114,7 +114,7 @@
       "settings": {
         "title": "Thông tin quà tặng",
         "meta_descr": "Khảo sát xu hướng 2021: Bạn kì vọng gì về lương thưởng, phúc lợi thời khó?",
-        "header_custom": "<meta property=\"og:title\" content=\"Your headline is here\" />\n  <meta property=\"og:description\" content=\"Your description is here\" />\n  <meta property=\"og:type\" content=\"website\" />\n  <meta property=\"og:url\" content=\"https://insights.anphabe.com/\" />\n  <meta property=\"og:image\" content=\"https://insights.anphabe.com/assets/images/index-meta.jpg\" />",
+        "header_custom": " <meta property=\"og:url\" content=\"https://insights.anphabe.com/\" />\n  <meta property=\"og:image\" content=\"https://insights.anphabe.com/assets/images/index-meta.jpg\" />",
         "footer_custom": "",
         "html_before": "",
         "order": 1
@@ -867,7 +867,7 @@
         "main": true,
         "title": "Khảo sát xu hướng 2021",
         "meta_descr": "Bạn kì vọng gì về lương thưởng, phúc lợi thời khó?",
-        "header_custom": "<meta property=\"og:title\" content=\"Your headline is here\" />\n  <meta property=\"og:description\" content=\"Your description is here\" />\n  <meta property=\"og:type\" content=\"website\" />\n  <meta property=\"og:url\" content=\"https://insights.anphabe.com/\" />\n  <meta property=\"og:image\" content=\"https://insights.anphabe.com/assets/images/index-meta.jpg\" />",
+        "header_custom": " <meta property=\"og:url\" content=\"https://insights.anphabe.com/\" />\n  <meta property=\"og:image\" content=\"https://insights.anphabe.com/assets/images/index-meta.jpg\" />",
         "footer_custom": "",
         "html_before": ""
       },
