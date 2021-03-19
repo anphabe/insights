@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Khảo sát xu hướng 2021",
-    "currentPage": "thongtinquatang.html",
+    "currentPage": "khaosatxuhuong2021.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -98,7 +98,7 @@
     "screenshot": "screenshot.png",
     "imageResize": false,
     "favicon": "@PROJECT_PATH@/assets/images/anphabe-01-128x97.png",
-    "mbrsiteDomain": "043jfe039g",
+    "mbrsiteDomain": "jw5gdymrni",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -114,11 +114,10 @@
       "settings": {
         "title": "Thông tin quà tặng",
         "meta_descr": "Khảo sát xu hướng 2021: Bạn kì vọng gì về lương thưởng, phúc lợi thời khó?",
-        "header_custom": "",
+        "header_custom": "<meta property=\"og:title\" content=\"Your headline is here\" />\n  <meta property=\"og:description\" content=\"Your description is here\" />\n  <meta property=\"og:type\" content=\"website\" />\n  <meta property=\"og:url\" content=\"https://insights.anphabe.com/\" />\n  <meta property=\"og:image\" content=\"https://insights.anphabe.com/assets/images/index-meta.jpg\" />",
         "footer_custom": "",
         "html_before": "",
-        "order": 1,
-        "meta_image": "@PROJECT_PATH@/assets/images/socialshare.jpg"
+        "order": 1
       },
       "components": [
         {
@@ -868,10 +867,9 @@
         "main": true,
         "title": "Khảo sát xu hướng 2021",
         "meta_descr": "Bạn kì vọng gì về lương thưởng, phúc lợi thời khó?",
-        "header_custom": "",
+        "header_custom": "<meta property=\"og:title\" content=\"Your headline is here\" />\n  <meta property=\"og:description\" content=\"Your description is here\" />\n  <meta property=\"og:type\" content=\"website\" />\n  <meta property=\"og:url\" content=\"https://insights.anphabe.com/\" />\n  <meta property=\"og:image\" content=\"https://insights.anphabe.com/assets/images/index-meta.jpg\" />",
         "footer_custom": "",
-        "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/socialshare.jpg"
+        "html_before": ""
       },
       "components": [
         {
