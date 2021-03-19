@@ -1802,10 +1802,9 @@ a {
   }
 }
 .cid-ss0vz7Athm {
-  padding-top: 2.5rem;
-  padding-bottom: 2.5rem;
-  background-image: url("../../../assets/images/banner-cover-oppo-3.jpg");
+  background-image: url("../../../assets/images/banner-cover-oppo2-9.jpg");
   min-height: 40vh;
+  background-size: cover;
 }
 .cid-ss0vz7Athm .card-wrapper {
   background: #ffffff;
