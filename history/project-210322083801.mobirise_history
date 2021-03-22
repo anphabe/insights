@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Khảo sát xu hướng 2021",
-    "currentPage": "thongtinquatang.html",
+    "currentPage": "khaosatxuhuong2021.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -107,7 +107,9 @@
     "gdpr": false,
     "witsec-mailform": false,
     "witsec-white-label": false,
-    "witsec-language": false
+    "witsec-language": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "thongtinquatang.html": {
