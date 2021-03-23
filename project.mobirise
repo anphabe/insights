@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Khảo sát xu hướng 2021",
-    "currentPage": "thongtinquatang.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -120,8 +120,7 @@
         "header_custom": " <meta property=\"og:url\" content=\"https://insights.anphabe.com/\" />\n  <meta name=\"image\" property=\"og:image\" content=\"https://insights.anphabe.com/assets/images/index-meta1.jpg\" />",
         "footer_custom": "",
         "html_before": "",
-        "order": 2,
-        "meta_image": "@PROJECT_PATH@/assets/images/socialshare-1.jpg"
+        "order": 2
       },
       "components": [
         {
@@ -908,8 +907,7 @@
         "meta_descr": "Bạn kì vọng gì về lương thưởng, phúc lợi thời khó?",
         "header_custom": " <meta property=\"og:url\" content=\"https://insights.anphabe.com/\" />\n  <meta name=\"image\" property=\"og:image\" content=\"https://insights.anphabe.com/assets/images/index-meta1.jpg\" />",
         "footer_custom": "",
-        "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/socialshare-1.jpg"
+        "html_before": ""
       },
       "components": [
         {
