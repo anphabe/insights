@@ -107,9 +107,7 @@
     "gdpr": false,
     "witsec-mailform": false,
     "witsec-white-label": false,
-    "witsec-language": false,
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "witsec-language": false
   },
   "pages": {
     "thongtinquatang.html": {
