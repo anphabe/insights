@@ -1594,8 +1594,8 @@ a {
   font-weight: bold;
 }
 .cid-sAnVSrTBpC {
-  padding-top: 10rem;
-  padding-bottom: 10rem;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-sAnVSrTBpC .card-wrapper {
@@ -1645,8 +1645,23 @@ a {
 .cid-sAnVSrTBpC .content-wrapper {
   padding-right: 8rem;
 }
+@media (max-width: 768px) {
+  .cid-sAnVSrTBpC .content-wrapper {
+    padding-right: 0;
+  }
+}
 .cid-sAnVSrTBpC .mbr-section-title {
   text-align: left;
+}
+.cid-sAnVSrTBpC .height-back {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+}
+@media (max-width: 767px) {
+  .cid-sAnVSrTBpC .height-back {
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+  }
 }
 .cid-ss08sIhX93 {
   padding-top: 0rem;
