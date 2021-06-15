@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Khảo sát xu hướng 2021",
-    "currentPage": "index.html",
+    "currentPage": "thongtinquatang.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -117,7 +117,7 @@
       "settings": {
         "title": "Thông tin quà tặng",
         "meta_descr": "Khảo sát xu hướng 2021: Bạn kì vọng gì về công việc tương lai?",
-        "header_custom": "<meta property=\"og:site_name\" content=\"insights.anphabe.com\"/>\n<meta property=\"og:rich_attachment\" content=\"true\"/>\n<meta property=\"og:type\" content=\"website\"/>\n<meta property=\"og:url\" itemprop=\"url\" content=\"https://insights.anphabe.com\"/>\n<meta name=\"image\" property=\"og:image\" content=\"https://insights.anphabe.com/assets/images/index-meta1.jpg\" />\n<meta name=\"twitter:image:src\" content=\"assets/images/khaosatxuhuong2021-meta-1.jpg\">\n  <meta property=\"og:image\" content=\"assets/images/khaosatxuhuong2021-meta-1.jpg\">",
+        "header_custom": "<meta property=\"og:site_name\" content=\"insights.anphabe.com\"/>\n<meta property=\"og:rich_attachment\" content=\"true\"/>\n<meta property=\"og:type\" content=\"website\"/>\n<meta property=\"og:url\" itemprop=\"url\" content=\"https://insights.anphabe.com\"/>\n<meta name=\"twitter:image:src\" content=\"https://insights.anphabe.com/assets/images/khaosatxuhuong2021-meta-1.jpg\">\n  <meta property=\"og:image\" content=\"https://insights.anphabe.com/assets/images/khaosatxuhuong2021-meta-1.jpg\">",
         "footer_custom": "",
         "html_before": "",
         "order": 2
@@ -909,7 +909,7 @@
         "main": true,
         "title": "Khảo sát xu hướng 2021",
         "meta_descr": "Bạn kì vọng gì về công việc tương lai?",
-        "header_custom": "<meta property=\"og:site_name\" content=\"insights.anphabe.com\"/>\n<meta property=\"og:rich_attachment\" content=\"true\"/>\n<meta property=\"og:type\" content=\"website\"/>\n<meta property=\"og:url\" itemprop=\"url\" content=\"https://insights.anphabe.com\"/>\n<meta name=\"image\" property=\"og:image\" content=\"https://insights.anphabe.com/assets/images/index-meta1.jpg\" />\n<meta name=\"twitter:image:src\" content=\"assets/images/khaosatxuhuong2021-meta-1.jpg\">\n  <meta property=\"og:image\" content=\"assets/images/khaosatxuhuong2021-meta-1.jpg\">",
+        "header_custom": "<meta property=\"og:site_name\" content=\"insights.anphabe.com\"/>\n<meta property=\"og:rich_attachment\" content=\"true\"/>\n<meta property=\"og:type\" content=\"website\"/>\n<meta property=\"og:url\" itemprop=\"url\" content=\"https://insights.anphabe.com\"/>\n<meta name=\"twitter:image:src\" content=\"https://insights.anphabe.com/assets/images/khaosatxuhuong2021-meta-1.jpg\">\n  <meta property=\"og:image\" content=\"https://insights.anphabe.com/assets/images/khaosatxuhuong2021-meta-1.jpg\">",
         "footer_custom": "",
         "html_before": ""
       },
