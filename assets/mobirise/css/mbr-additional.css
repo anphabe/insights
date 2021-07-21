@@ -1214,6 +1214,9 @@ a {
 .cid-sDLB4qnV5N .nav-item .nav-link:hover:hover {
   color: #ffa402!important;
 }
+.cid-sDLB4qnV5N button.navbar-toggler .hamburger span {
+  background-color: #ffffff;
+}
 .cid-sDLB4qnV5N .navbar-dropdown {
   position: relative !important;
 }
@@ -1567,6 +1570,9 @@ a {
 }
 .cid-sDLB4qnV5N .nav-item .nav-link:hover:hover {
   color: #ffa402!important;
+}
+.cid-sDLB4qnV5N button.navbar-toggler .hamburger span {
+  background-color: #ffffff;
 }
 .cid-sAnrKrRwQP {
   background-image: url("../../../assets/images/banner-cover-insight3-2.jpg");
