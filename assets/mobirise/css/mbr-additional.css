@@ -3,11 +3,11 @@ body {
 }
 .display-1 {
   font-family: 'Poppins', sans-serif;
-  font-size: 5rem;
+  font-size: 4.2rem;
   line-height: 1.1;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 6.25rem;
+  font-size: 5.25rem;
 }
 .display-2 {
   font-family: 'Be Vietnam', sans-serif;
@@ -48,14 +48,14 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 992px) {
   .display-1 {
-    font-size: 4rem;
+    font-size: 3.36rem;
   }
 }
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 3.5rem;
-    font-size: calc( 2.4rem + (5 - 2.4) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.1 * (2.4rem + (5 - 2.4) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.94rem;
+    font-size: calc( 2.12rem + (4.2 - 2.12) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.1 * (2.12rem + (4.2 - 2.12) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 2.24rem;
@@ -1581,7 +1581,7 @@ a {
   color: #ffffff;
 }
 .cid-sAnrKrRwQP h1 {
-  line-height: 6rem;
+  line-height: 5rem;
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .cid-sAnrKrRwQP h1 {
