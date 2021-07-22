@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Khảo sát xu hướng 2021",
-    "currentPage": "thongtinquatang.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -1366,7 +1366,8 @@
               },
               "@media (max-width: 768px)": {
                 "font-size": "2.4rem",
-                "line-height": "3.6rem"
+                "line-height": "3.6rem",
+                "margin-right": "50px"
               }
             },
             ".btn": {
