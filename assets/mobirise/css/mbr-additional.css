@@ -1582,6 +1582,7 @@ a {
 }
 .cid-sAnrKrRwQP h1 {
   line-height: 5rem;
+  text-shadow: 2px 2px #262626;
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .cid-sAnrKrRwQP h1 {
@@ -1590,8 +1591,8 @@ a {
 }
 @media (max-width: 768px) {
   .cid-sAnrKrRwQP h1 {
-    font-size: 3.8rem;
-    line-height: 5rem;
+    font-size: 2.4rem;
+    line-height: 3.6rem;
   }
 }
 .cid-sAnrKrRwQP .btn {
