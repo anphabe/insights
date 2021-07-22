@@ -39,23 +39,23 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 <script>
 function keep_url_query(){
-    var url = window.location.href;
-    var index = url.indexOf("?");
-
-    if(index < 0) {
-        return;
-    }
-    var query = url.substring(index);
+    let query = window.location.search;
     
-    (function(query) {
-    var atags = document.getElementsByTagName("a"); 
-    var i;
+    if(query == "") {
+        return false;
+    }
+    let searchParams = new URLSearchParams(query);
+
+    let atags = document.getElementsByTagName("a"); 
+    let i;
     for (i = 0; i < atags.length; i++) {
-        atags[i].href = atags[i].href+query;  
-    //    atags[i].classList.add("d-inline-block");
+        let new_url = new URL(atags[i].href);
+        for (const [key, value] of searchParams) {
+            new_url.searchParams.set(key, value);
+        }
+        atags[i].href = new_url.toString();  
     } 
-        
-    })(query);
+
 }
 
 if (
