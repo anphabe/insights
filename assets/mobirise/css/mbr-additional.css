@@ -692,7 +692,7 @@ a {
     min-height: 14vh;
   }
 }
-@media (min-width: 768px) and (max-width: 991px) {
+@media (min-width: 992px) {
   .cid-ss0vz7Athm {
     min-height: 23vh;
   }

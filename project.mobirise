@@ -140,7 +140,7 @@
               "@media (max-width: 540px)": {
                 "min-height": "14vh"
               },
-              "@media (min-width: 768px) and (max-width: 991px)": {
+              "@media (min-width: 992px)": {
                 "min-height": "23vh"
               }
             },
