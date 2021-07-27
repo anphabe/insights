@@ -137,8 +137,8 @@
               "background-image": "url(@bg-value)",
               "min-height": "40vh",
               "background-size": "cover",
-              "@media (max-width: 428px)": {
-                "min-height": "20vh"
+              "@media (max-width: 540px)": {
+                "min-height": "32vh"
               }
             },
             ".card-wrapper": {
@@ -570,7 +570,7 @@
           "_params": {}
         },
         {
-          "_name": "menu1-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sDLB4qnV5N",
+          "_name": "menu1-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sDLB4qnV5N-sDLB4qnV5N",
           "_sourceTheme": "mobirise5",
           "_styles": {
             "& when not (@sticky)": {
@@ -1000,7 +1000,7 @@
       },
       "components": [
         {
-          "_name": "menu1-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sDLB4qnV5N",
+          "_name": "menu1-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sprOa5iSxl-sDLB4qnV5N-sDLB4qnV5N",
           "_sourceTheme": "mobirise5",
           "_styles": {
             "& when not (@sticky)": {

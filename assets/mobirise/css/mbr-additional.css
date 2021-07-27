@@ -687,9 +687,9 @@ a {
   min-height: 40vh;
   background-size: cover;
 }
-@media (max-width: 428px) {
+@media (max-width: 540px) {
   .cid-ss0vz7Athm {
-    min-height: 20vh;
+    min-height: 32vh;
   }
 }
 .cid-ss0vz7Athm .card-wrapper {
