@@ -692,11 +692,6 @@ a {
     min-height: 14vh;
   }
 }
-@media (min-width: 992px) {
-  .cid-ss0vz7Athm {
-    min-height: 23vh;
-  }
-}
 .cid-ss0vz7Athm .card-wrapper {
   background: #ffffff;
   border-radius: 4px;
