@@ -687,6 +687,11 @@ a {
   min-height: 40vh;
   background-size: cover;
 }
+@media (max-width: 428px) {
+  .cid-ss0vz7Athm {
+    min-height: 20vh;
+  }
+}
 .cid-ss0vz7Athm .card-wrapper {
   background: #ffffff;
   border-radius: 4px;
@@ -694,7 +699,6 @@ a {
 @media (max-width: 767px) {
   .cid-ss0vz7Athm .card-wrapper {
     padding: 1rem;
-    padding-bottom: 0;
   }
 }
 @media (min-width: 768px) and (max-width: 991px) {

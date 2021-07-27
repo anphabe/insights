@@ -136,14 +136,16 @@
             "& when (@bg-type = \"image\")": {
               "background-image": "url(@bg-value)",
               "min-height": "40vh",
-              "background-size": "cover"
+              "background-size": "cover",
+              "@media (max-width: 428px)": {
+                "min-height": "20vh"
+              }
             },
             ".card-wrapper": {
               "background": "@wrapBgColor",
               "border-radius": "4px",
               "@media (max-width: 767px)": {
-                "padding": "1rem",
-                "padding-bottom": "0"
+                "padding": "1rem"
               },
               "@media (min-width: 768px) and (max-width: 991px)": {
                 "padding": "2rem"
