@@ -689,7 +689,12 @@ a {
 }
 @media (max-width: 540px) {
   .cid-ss0vz7Athm {
-    min-height: 32vh;
+    min-height: 14vh;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-ss0vz7Athm {
+    min-height: 23vh;
   }
 }
 .cid-ss0vz7Athm .card-wrapper {
