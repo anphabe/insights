@@ -683,7 +683,7 @@ a {
   transition: color 0.6s;
 }
 .cid-ss0vz7Athm {
-  background-image: url("../../../assets/images/banner-cover-quatang2.jpg");
+  background-image: url("../../../assets/images/banner-cover-quatang-oppo-kfc.jpg");
   min-height: 40vh;
   background-size: cover;
 }
@@ -728,6 +728,47 @@ a {
 .cid-ss0xV0Xvc9 li.list-child {
   list-style: none;
   line-height: 1.8rem;
+}
+.cid-ss0xV0Xvc9 .mbr-text {
+  text-align: left;
+}
+.cid-sEm0b9OhnP {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #353535;
+}
+.cid-sEm098yJX5 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #faf8ed;
+}
+@media (max-width: 991px) {
+  .cid-sEm098yJX5 {
+    padding-top: 1.2rem;
+    padding-bottom: 1.2rem;
+  }
+  .cid-sEm098yJX5 .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sEm098yJX5 .row {
+  flex-direction: row-reverse;
+}
+@media (max-width: 991px) {
+  .cid-sEm098yJX5 .row {
+    flex-direction: column-reverse;
+  }
+}
+.cid-sEm098yJX5 img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-sEm098yJX5 .text-wrapper {
+    padding: 2rem;
+  }
+}
+.cid-sEm098yJX5 p {
+  line-height: 2rem;
 }
 .cid-ss6c6hJI6x {
   padding-top: 5rem;
@@ -820,36 +861,37 @@ a {
 .cid-ss0vf5MS0X .mbr-section-title {
   color: #353535;
 }
-.cid-ss0vf5VyQl {
+.cid-sElFq5QLA8 {
   padding-top: 0rem;
-  padding-bottom: 7rem;
+  padding-bottom: 6rem;
   background-color: #ffffff;
 }
-@media (max-width: 991px) {
-  .cid-ss0vf5VyQl .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-ss0vf5VyQl .row {
-  flex-direction: row-reverse;
-}
-.cid-ss0vf5VyQl img {
+.cid-sElFq5QLA8 img {
   width: 100%;
+  margin: auto;
 }
 @media (max-width: 767px) {
-  .cid-ss0vf5VyQl img {
+  .cid-sElFq5QLA8 img {
     width: 60%;
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
   }
 }
 @media (min-width: 768px) and (max-width: 991px) {
-  .cid-ss0vf5VyQl img {
+  .cid-sElFq5QLA8 img {
     width: 40%;
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
+  }
+}
+.cid-sElFq5QLA8 .card {
+  transition: all 0.3s;
+  height: fit-content;
+  padding: 0;
+  margin-bottom: 1rem;
+  margin-right: 1rem;
+}
+@media (min-width: 992px) {
+  .cid-sElFq5QLA8 .card {
+    max-width: 10%;
   }
 }
 .cid-ss0vf647aR {
@@ -1685,6 +1727,10 @@ a {
     padding-bottom: 2rem;
   }
 }
+.cid-sAnVSrTBpC ul li {
+  margin-left: 18px;
+  line-height: 1.8;
+}
 .cid-ss08sIhX93 {
   padding-top: 0rem;
   padding-bottom: 4rem;
@@ -1871,36 +1917,37 @@ a {
 .cid-ss0obaY4XM .mbr-section-title {
   color: #353535;
 }
-.cid-ss0qGJUcY6 {
+.cid-sElzuNPH9B {
   padding-top: 0rem;
-  padding-bottom: 7rem;
+  padding-bottom: 6rem;
   background-color: #ffffff;
 }
-@media (max-width: 991px) {
-  .cid-ss0qGJUcY6 .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-ss0qGJUcY6 .row {
-  flex-direction: row-reverse;
-}
-.cid-ss0qGJUcY6 img {
+.cid-sElzuNPH9B img {
   width: 100%;
+  margin: auto;
 }
 @media (max-width: 767px) {
-  .cid-ss0qGJUcY6 img {
+  .cid-sElzuNPH9B img {
     width: 60%;
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
   }
 }
 @media (min-width: 768px) and (max-width: 991px) {
-  .cid-ss0qGJUcY6 img {
+  .cid-sElzuNPH9B img {
     width: 40%;
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
+  }
+}
+.cid-sElzuNPH9B .card {
+  transition: all 0.3s;
+  height: fit-content;
+  padding: 0;
+  margin-bottom: 1rem;
+  margin-right: 1rem;
+}
+@media (min-width: 992px) {
+  .cid-sElzuNPH9B .card {
+    max-width: 10%;
   }
 }
 .cid-ss0rHlo8LF {

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Khảo sát xu hướng 2021",
-    "currentPage": "thongtinquatang.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -93,7 +93,7 @@
         "url": "https://fonts.googleapis.com/css?family=Be+Vietnam:100,100i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i"
       }
     ],
-    "uniqCompNum": 92,
+    "uniqCompNum": 96,
     "versionPublish": "5.3.5",
     "screenshot": "screenshot.png",
     "imageResize": false,
@@ -154,7 +154,7 @@
           },
           "_name": "header12",
           "_sourceTheme": "mobirise5",
-          "_customHTML": "<section class=\"header12\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Wrap Bg\" name=\"wrapBgColor\" value=\"#ffffff\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/banner-cover-quatang2.jpg\" parallax selected>\n            <input type=\"color\" title=\"Color\" value=\"#ff6666\">\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            \n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"header12\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Wrap Bg\" name=\"wrapBgColor\" value=\"#ffffff\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/banner-cover-quatang-oppo-kfc.jpg\" parallax selected>\n            <input type=\"color\" title=\"Color\" value=\"#ff6666\">\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            \n        </div>\n    </div>\n</section>",
           "_cid": "ss0vz7Athm",
           "_anchor": "header12-1h",
           "_PHPplaceholders": [],
@@ -206,15 +206,92 @@
             "li.list-child": {
               "list-style": "none",
               "line-height": "1.8rem"
+            },
+            ".mbr-text": {
+              "text-align": "left"
             }
           },
           "_name": "content5",
           "_sourceTheme": "mobirise5",
-          "_customHTML": "<section class=\"content5\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"4\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\">\n                    <b>Article Title</b>\n                </h3>\n                <h4 class=\"mbr-section-subtitle mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-5\">\n                    Enter your subtitle here\n                </h4>\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-4\">6.000&nbsp;đáp&nbsp;viên&nbsp;đầu&nbsp;tiên&nbsp;hoàn&nbsp;thành&nbsp;Khảo&nbsp;sát hợp lệ sẽ nhận&nbsp;ngay:</p> \n                <ul class=\"list mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".list\" data-multiline mbr-article>\n                    <li>Một&nbsp;(01)&nbsp;mã&nbsp;quà tặng “Giảm giá 50.000VNĐ&nbsp;cho&nbsp;đơn&nbsp;hàng&nbsp;100.000&nbsp;VNĐ” khi mua sản phẩm tại&nbsp;hệ&nbsp;thống&nbsp;cửa&nbsp;hàng&nbsp;KFC ở Hà Nội và&nbsp;TP.Hồ Chí Minh, áp dụng từ ngày 01/07/2021 đến ngày 31/08/2021</li>                    \n                </ul>                \n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-4\"><i>Lưu&nbsp;ý:&nbsp;Anphabe&nbsp;chỉ&nbsp;ghi&nbsp;nhận&nbsp;và&nbsp;tặng&nbsp;quà&nbsp;cho&nbsp;những&nbsp;khảo&nbsp;sát&nbsp;hợp&nbsp;lệ.</i></p>\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-4\"><b>ĐIỀU KIỆN QUÀ TẶNG KFC</b></p>\n                <ul class=\"list mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".list\" data-multiline mbr-article>\n                    <li><b>Thời gian sử dụng từ ngày</b>&nbsp;<b>01/07/2021 – 31/08/2021</b></li>\n                    <li>Mã quà tặng áp dụng cho đơn hàng từ 100.000 VNĐ trở lên và không áp dụng cùng chương trình khuyến mãi khác</li>\n                    <li>Khách hàng phải trình mã quà tặng cho nhân viên bán hàng để được áp dụng chương trình</li>\n                    <li>Mã quà tặng này không có giá trị quy đổi thành tiền mặt</li>\n                    <li>Mã quà tặng này chỉ được sử dụng một lần </li>\n                    <li>Chương trình KHÔNG áp dụng cho Giao hàng tận nơi và các chương trình khuyến mãi khác</li>\n                    <li>Chương trình chỉ áp dụng ăn tại nhà hàng và mua mang về</li>\n                    <li>Danh sách hệ thống cửa hàng KFC tại<b> Hà Nội</b> và <b>TP.Hồ Chí Minh</b>:</li>\n                    <li class=\"list-child\">\n                        <ul>\n                            <li>Hà Nội: <a href=\"https://kfcvietnam.com.vn/vi/nha-hang/2/ha-noi.html \" class=\"text-primary\" target=\"_blank\">https://kfcvietnam.com.vn/vi/nha-hang/2/ha-noi.html&nbsp;</a></li>\n                            <li>Hồ Chí Minh: <a href=\"https://kfcvietnam.com.vn/vi/nha-hang/1/ho-chi-minh.html \" class=\"text-primary\" target=\"_blank\">https://kfcvietnam.com.vn/vi/nha-hang/1/ho-chi-minh.html&nbsp;</a></li>\n                        </ul>\n                    </li>\n                </ul>             \n                \n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"content5\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"4\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\">\n                    <b>Article Title</b>\n                </h3>\n                <h4 class=\"mbr-section-subtitle mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-5\">\n                    Enter your subtitle here\n                </h4>\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-4\">6.000 đáp viên đầu tiên hoàn thành Khảo sát hợp lệ sẽ nhận ngay:</p> \n                <ul class=\"list mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".list\" data-multiline mbr-article>\n                    <li>Một (01) mã quà tặng “Giảm giá 50.000VNĐ cho đơn hàng 100.000 VNĐ” khi mua sản phẩm tại hệ thống cửa hàng KFC ở Hà Nội và TP.Hồ Chí Minh, áp dụng từ ngày 01/07/2021 đến ngày 31/08/2021</li>                   \n                    <li>Một (01) mã rút thăm may mắn – Cơ hội sở hữu loa Bluetooth OPPO qua chương trình quay số may mắn hàng tuần.</li> \n                </ul>                \n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-4\"><i>Lưu&nbsp;ý:&nbsp;Anphabe&nbsp;chỉ&nbsp;ghi&nbsp;nhận&nbsp;và&nbsp;tặng&nbsp;quà&nbsp;cho&nbsp;những&nbsp;khảo&nbsp;sát&nbsp;hợp&nbsp;lệ.</i></p>\n                <p class=\"mbr-text mbr-fonts-style mt-7\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-4\"><b>ĐIỀU KIỆN QUÀ TẶNG KFC</b></p>\n                <ul class=\"list mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".list\" data-multiline mbr-article>\n                    <li><b>Thời gian sử dụng từ ngày</b> <b>01/07/2021 – 31/08/2021</b></li>\n                    <li>Mã quà tặng áp dụng cho đơn hàng từ 100.000 VNĐ trở lên và không áp dụng cùng chương trình khuyến mãi khác</li>\n                    <li>Khách hàng phải trình mã quà tặng cho nhân viên bán hàng để được áp dụng chương trình</li>\n                    <li>Mã quà tặng này không có giá trị quy đổi thành tiền mặt</li>\n                    <li>Mã quà tặng này chỉ được sử dụng một lần </li>\n                    <li>Chương trình KHÔNG áp dụng cho Giao hàng tận nơi và các chương trình khuyến mãi khác</li>\n                    <li>Chương trình chỉ áp dụng ăn tại nhà hàng và mua mang về</li>\n                    <li>Danh sách&nbsp;các&nbsp;cửa hàng KFC tại 2 thành phố là:</li>\n                    <li class=\"list-child\">\n                        <ul>\n                            <li>Hà Nội: <a href=\"https://kfcvietnam.com.vn/vi/nha-hang/2/ha-noi.html \" class=\"text-primary\" target=\"_blank\">https://kfcvietnam.com.vn/vi/nha-hang/2/ha-noi.html&nbsp;</a></li>\n                            <li>Hồ Chí Minh: <a href=\"https://kfcvietnam.com.vn/vi/nha-hang/1/ho-chi-minh.html \" class=\"text-primary\" target=\"_blank\">https://kfcvietnam.com.vn/vi/nha-hang/1/ho-chi-minh.html&nbsp;</a></li>\n                        </ul>\n                    </li>\n                </ul>      \n\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-4\">Hiện tại, do tình hình dịch Covid-19 đang diễn biến phức tạp, hệ thống&nbsp;cửa hàng KFC tại&nbsp;Hà Nội và TP.Hồ Chí Minh đang tạm&nbsp;ngưng hoạt động theo yêu cầu của chính quyền địa phương và sẽ trở lại ngay khi được cấp phép chính thức.</p>\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-4\"><b>ĐIỀU KIỆN QUÀ TẶNG OPPO</b></p>\n\n                <ul class=\"list mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".list\" data-multiline mbr-article>\n                    <li>Đáp viên may mắn sẽ được hệ thống lựa chọn ngẫu nhiên và gửi thông báo về quà tặng và hình thức nhận quà qua email đã đăng ký khi tham gia khảo sát. Đáp viên may mắn vui lòng xác nhận thông tin nhận thưởng qua email trong vòng 3 ngày làm việc kể từ khi nhận thông báo trúng thưởng của Ban tổ chức.</li>\n                    <li>Việc quay số may mắn được thực hiện vào thứ 6 hằng tuần và kết quả được thông báo trên kênh Facebook chính thức của Anphabe: <a href=\"https://www.facebook.com/anphabe\" class=\"text-primary\" target=\"_blank\">https://www.facebook.com/anphabe</a></li>\n                    <li>Số lượng đáp viên may mắn: một<b> (01) đáp viên/tuần</b>.</li>\n                    <li>Hình thức nhận quà:&nbsp;Anphabe gửi quà về địa chỉ do đáp viên cung cấp. Trong trường hợp đơn vị vận chuyển không liên lạc được với người nhận thưởng và phải hoàn lại tặng phẩm về nơi phát, Ban tổ chức có quyền linh động thay đổi người nhận thưởng và rút lại giải thưởng ban đầu đối với người được nhận thưởng.</li>\n                </ul>  \n\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-4\">Do tình hình dịch Covid-19 diễn biến phức tạp, TP.HCM đang giãn cách xã hội theo Chỉ thị 16 kể từ ngày&nbsp;09/07/2021 và công ty Anphabe đang áp dụng hình thức làm việc tại nhà. Anphabe cam kết sẽ chuyển quà tặng loa Bluetooth Oppo theo địa chỉ bạn đã cung cấp ngay khi chính quyền địa phương công bố dừng giãn cách và&nbsp;trở lại làm việc bình thường. </p>\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-4\">Nếu có bất kỳ thắc mắc nào về quà tặng, vui lòng liên hệ bộ phận phụ trách khảo sát qua email: <a href=\"mailto:contact@anphabe.com\" class=\"text-primary\">contact@anphabe.com</a>. Trong trường hợp xảy ra bất cứ khiếu nại hay tranh chấp nào, Anphabe là đơn vị có quyền quyết định cuối cùng.</p>\n\n                \n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "ss0xV0Xvc9",
           "_anchor": "content5-1j",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content11",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section class=\"content11\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#353535\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons=\"\" mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"https://insights-w2.anphabe.com/\" data-app-placeholder=\"Type Text\">Bắt đầu khảo sát</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content11-2n",
+          "_isUserblock": true,
+          "_cid": "sEm0b9OhnP",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "@media (max-width: 991px)": {
+              "padding-top": "(@paddingTop * 0.2rem)",
+              "padding-bottom": "(@paddingBottom * 0.2rem)",
+              ".image-wrapper": {
+                "margin-bottom": "1rem"
+              }
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@fullWidth)": {
+              ".text-wrapper": {
+                "padding": "1rem"
+              }
+            },
+            ".row": {
+              "flex-direction": "row-reverse",
+              "@media (max-width: 991px)": {
+                "flex-direction": "column-reverse"
+              }
+            },
+            "img": {
+              "width": "100%"
+            },
+            "@media (min-width: 992px)": {
+              ".text-wrapper": {
+                "padding": "2rem"
+              }
+            },
+            "p": {
+              "line-height": "2rem"
+            }
+          },
+          "_name": "image2",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section class=\"image2\" group=\"Images & Videos\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" name=\"textWidth\" title=\"Image\" min=\"4\" max=\"8\" step=\"1\" value=\"6\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Description\" name=\"showDescription\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\" parallax>\n            <input type=\"color\" title=\"Color\" value=\"#faf8ed\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div class=\"row align-items-center\">\n            \n            <div class=\"col-12\" mbr-class=\"{'col-lg' : !fullWidth, 'col-lg-4' : fullWidth &amp;&amp; textWidth >= 6, 'col-lg-6' : fullWidth &amp;&amp; textWidth <= 5}\">\n                <div class=\"text-wrapper\">\n                    <h3 class=\"mbr-section-title mbr-fonts-style mb-3\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\">THÔNG TIN QUÀ TẶNG - Loa Bluetooth OPPO </h3>\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">Loa Bluetooth OPPO, vừa nổi bật vừa tạo cá tính riêng nhờ thiết kế hình hộp bo tròn góc, các nút điều khiển vật lý ở cạnh trên và logo OPPO ngay mặt trước. Ẩn ngay bên dưới lưới bảo vệ loa là các đèn LED 7 đoạn hiển thị thời gian, cho phép sản phẩm vừa có chức năng phát âm thanh không dây, vừa là một đồng hồ để bàn xinh xắn. Món quà công nghệ này sử dụng kết nối Bluetooth 5.0, tích hợp pin 750mAh cho thời lượng sử dụng liên tục đến 8 giờ, nạp lại năng lượng qua cổng USB Type-C trong 3 giờ sạc. </p>\n                    \n                </div>\n            </div>\n\n            <div class=\"col-12 col-lg-{{textWidth}}\">\n                <div class=\"image-wrapper\">\n                    <img src=\"@PROJECT_PATH@/assets/images/oppo2.jpg\" alt=\"Mobirise\">\n                    <p class=\"mbr-description mbr-fonts-style mt-2 align-center\" mbr-theme-style=\"display-4\" mbr-if=\"showDescription\" data-app-selector=\".mbr-description\">\n                        Image Description</p>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_JSplaceholders": [],
+          "_PHPplaceholders": [],
+          "_anchor": "image2-2m",
+          "_isUserblock": true,
+          "_cid": "sEm098yJX5",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -421,47 +498,42 @@
         {
           "alias": false,
           "_styles": {
-            "& when not (@fullScreen)": {
-              "padding-top": "(@paddingTop * 1rem)",
-              "padding-bottom": "(@paddingBottom * 1rem)"
-            },
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            "@media (max-width: 991px)": {
-              ".image-wrapper": {
-                "margin-bottom": "1rem"
-              }
-            },
-            ".row": {
-              "flex-direction": "row-reverse"
-            },
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor",
             "img": {
               "width": "100%",
+              "margin": "auto",
               "@media (max-width: 767px)": {
                 "width": "60%",
-                "text-align": "center",
-                "margin-left": "auto",
-                "margin-right": "auto"
+                "text-align": "center"
               },
               "@media (min-width: 768px) and (max-width: 991px)": {
                 "width": "40%",
-                "text-align": "center",
-                "margin-left": "auto",
-                "margin-right": "auto"
+                "text-align": "center"
+              }
+            },
+            ".card": {
+              "transition": "all 0.3s",
+              "height": "fit-content",
+              "padding": "0",
+              "margin-bottom": "1rem",
+              "margin-right": "1rem"
+            },
+            "@media (min-width: 992px)": {
+              ".card": {
+                "max-width": "10%"
               }
             }
           },
-          "_name": "image3",
+          "_name": "clients1",
           "_sourceTheme": "mobirise5",
-          "_customHTML": "<section class=\"image3\" group=\"Images & Videos\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"7\" condition=\"fullScreen == false\">\n        <input type=\"range\" name=\"textWidth\" title=\"Image\" min=\"4\" max=\"12\" step=\"1\" value=\"4\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"../_images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-12 col-lg-3\">\n                <div class=\"image-wrapper\">\n                    <img src=\"@PROJECT_PATH@/assets/images/kfc-logo-update-new.png\" alt=\"KFC\">\n                    <p class=\"mbr-description mbr-fonts-style mt-2 align-center\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-description\">\n                        Image Description</p>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_PHPplaceholders": [],
+          "_customHTML": "<section class=\"clients1\" group=\"Clients\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked=\"\">\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"6\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\">\n        <input type=\"range\" inline=\"\" title=\"Items\" name=\"items\" min=\"1\" max=\"8\" value=\"2\" step=\"1\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div class=\"images-container\" mbr-class=\"{'container-fluid':fullWidth, container:fullWidth==false}\">\n        <div class=\"mbr-section-head\">\n            <h3 class=\"mbr-section-title mbr-fonts-style align-center mb-0\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">\n                <b>Our Clients</b>\n            </h3>\n            <h4 class=\"mbr-section-subtitle mbr-fonts-style align-center mb-0 mt-2\" mbr-theme-style=\"display-5\" mbr-if=\"showSubTitle\" data-app-selector=\".mbr-section-subtitle\">For a better look, use pictures of the same size in this block.\n                elit</h4>\n            <p class=\"mbr-text mbr-fonts-style align-center mt-2\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                Click on an image in this block to replace it. Set the number of logos in Block Parameters. </p>\n        </div>\n        <div class=\"row justify-content-center mt-4\">\n            <div class=\"col-md-3 card\">\n                <img src=\"@PROJECT_PATH@/assets/images/kfc-logo-update-new.png\" alt=\"\">\n            </div>\n            <div class=\"col-md-3 card\" mbr-if=\"items > 1\">\n                <img src=\"@PROJECT_PATH@/assets/images/oppo.png\" alt=\"OPPO\">\n            </div>\n            <div class=\"col-md-3 card\" mbr-if=\"items > 2\">\n                <img src=\"@PROJECT_PATH@/assets/images/3.png\">\n            </div>\n            <div class=\"col-md-3 card\" mbr-if=\"items > 3\">\n                <img src=\"@PROJECT_PATH@/assets/images/4.png\">\n            </div>\n            <div class=\"col-md-3 card\" mbr-if=\"items > 4\">\n                <img src=\"@PROJECT_PATH@/assets/images/kfc-logo-update-new.png\" alt=\"\">\n            </div>\n            <div class=\"col-md-3 card\" mbr-if=\"items > 5\">\n                <img src=\"@PROJECT_PATH@/assets/images/3.png\">\n            </div>\n            <div class=\"col-md-3 card\" mbr-if=\"items > 6\">\n                <img src=\"@PROJECT_PATH@/assets/images/4.png\">\n            </div>\n            <div class=\"col-md-3 card\" mbr-if=\"items > 7\">\n                <img src=\"@PROJECT_PATH@/assets/images/5.png\">\n            </div>\n        </div>\n    </div>\n</section>",
           "_JSplaceholders": [],
-          "_cid": "ss0vf5VyQl",
-          "_anchor": "image3-1e",
+          "_PHPplaceholders": [],
+          "_anchor": "clients1-2l",
+          "_isUserblock": true,
+          "_cid": "sElFq5QLA8",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -1465,11 +1537,15 @@
                 "padding-top": "3rem",
                 "padding-bottom": "2rem"
               }
+            },
+            "ul li": {
+              "margin-left": "18px",
+              "line-height": "1.8"
             }
           },
           "_name": "features12",
           "_sourceTheme": "mobirise5",
-          "_customHTML": "<section class=\"features11\" group=\"Features\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\" plugins=\"mobirise-icons2\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" name=\"imageWidth\" title=\"Image\" min=\"4\" max=\"8\" step=\"1\" value=\"8\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Items\" name=\"showLink\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\" checked>\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"../_images/background3.jpg\" parallax>\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div mbr-class=\"{'container': !fullWidth}\">     \n\n            \n          <div class=\"back\"></div>\n          <div class=\"container-fluid height-back\">\n              <div class=\"row\">\n                  <div class=\"col-lg-7 m-auto\">\n                      <img src=\"@PROJECT_PATH@/assets/images/banner-kfc-banner-kfc.jpg\" alt=\"KFC\" title>\n                  </div>\n                  <div class=\"col-lg-5 m-auto\">\n                      <div class=\"content-wrapper align-left\">                          \n                          <h4 class=\"mbr-section-title mt-3 mbr-fonts-style align-center mb-0\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">Khảo sát ngay!</h4>                          \n                          <p class=\"mbr-text mbr-fonts-style mt-3\" mbr-if=\"showText\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text, .mbr-section-btn\">Nhận&nbsp;liền tay VOUCHER KFC <b>50.000 VNĐ</b>&nbsp;(áp dụng cho đơn hàng từ 100.000 VNĐ) ngay khi bạn hoàn thành khảo sát hợp lệ.&nbsp;<br></p>\n\n                          <div class=\"mbr-section-btn\"><a class=\"btn btn-secondary-outline display-4\" href=\"thongtinquatang.html\"><span class=\"mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn\"></span><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Thông tin quà tặng</font></font></a></div>\n                          \n                      </div>\n                  </div>\n              </div>\n          </div>\n\n    </div>\n</section>",
+          "_customHTML": "<section class=\"features11\" group=\"Features\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\" plugins=\"mobirise-icons2\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" name=\"imageWidth\" title=\"Image\" min=\"4\" max=\"8\" step=\"1\" value=\"8\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Items\" name=\"showLink\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\" checked>\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"../_images/background3.jpg\" parallax>\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div mbr-class=\"{'container': !fullWidth}\">     \n\n            \n          <div class=\"back\"></div>\n          <div class=\"container-fluid height-back\">\n              <div class=\"row\">\n                  <div class=\"col-lg-7 m-auto\">\n                      <img src=\"@PROJECT_PATH@/assets/images/banner-kfc-banner-kfc.jpg\" alt=\"Quà liền tay \" title>\n                  </div>\n                  <div class=\"col-lg-5 m-auto\">\n                      <div class=\"content-wrapper align-left\">                          \n                          <h4 class=\"mbr-section-title mt-3 mbr-fonts-style align-center mb-0\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">Khảo sát ngay!</h4>                          \n                          <p class=\"mbr-text mbr-fonts-style mt-3\" mbr-if=\"showText\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text, .mbr-section-btn\">Nhận liền tay khi bạn hoàn thành khảo sát hợp lệ:</p>\n                          <ul>\n                              <li class=\"mbr-fonts-style\" mbr-theme-style=\"display-4\"><b>Voucher KFC 50.000 VNĐ</b> (áp dụng cho đơn hàng từ 100.000 VNĐ).</li>\n                              <li class=\"mbr-fonts-style\" mbr-theme-style=\"display-4\">Mã rút thăm may mắn hàng tuần - quà tặng loa <b>Bluetooth Oppo trị giá 990.000VNĐ<b>.</b></b></li><b><b>\n                          </b></b></ul><b><b>\n\n                          <div class=\"mbr-section-btn\"><a class=\"btn btn-secondary-outline display-4\" href=\"thongtinquatang.html\"><span class=\"mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn\"></span><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Thông tin quà tặng</font></font></a></div>\n                          \n                      </b></b></div><b><b>\n                  </b></b></div><b><b>\n              </b></b></div><b><b>\n          </b></b></div><b><b>\n\n    </b></b></div><b><b>\n</b></b></section>",
           "_cid": "sAnVSrTBpC",
           "_anchor": "features12-2g",
           "_PHPplaceholders": [],
@@ -1808,45 +1884,39 @@
         {
           "alias": false,
           "_styles": {
-            "& when not (@fullScreen)": {
-              "padding-top": "(@paddingTop * 1rem)",
-              "padding-bottom": "(@paddingBottom * 1rem)"
-            },
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            "@media (max-width: 991px)": {
-              ".image-wrapper": {
-                "margin-bottom": "1rem"
-              }
-            },
-            ".row": {
-              "flex-direction": "row-reverse"
-            },
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor",
             "img": {
               "width": "100%",
+              "margin": "auto",
               "@media (max-width: 767px)": {
                 "width": "60%",
-                "text-align": "center",
-                "margin-left": "auto",
-                "margin-right": "auto"
+                "text-align": "center"
               },
               "@media (min-width: 768px) and (max-width: 991px)": {
                 "width": "40%",
-                "text-align": "center",
-                "margin-left": "auto",
-                "margin-right": "auto"
+                "text-align": "center"
+              }
+            },
+            ".card": {
+              "transition": "all 0.3s",
+              "height": "fit-content",
+              "padding": "0",
+              "margin-bottom": "1rem",
+              "margin-right": "1rem"
+            },
+            "@media (min-width: 992px)": {
+              ".card": {
+                "max-width": "10%"
               }
             }
           },
-          "_name": "image3",
+          "_name": "clients1",
           "_sourceTheme": "mobirise5",
-          "_customHTML": "<section class=\"image3\" group=\"Images & Videos\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"7\" condition=\"fullScreen == false\">\n        <input type=\"range\" name=\"textWidth\" title=\"Image\" min=\"4\" max=\"12\" step=\"1\" value=\"4\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"../_images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-12 col-lg-3\">\n                <div class=\"image-wrapper\">\n                    <img src=\"@PROJECT_PATH@/assets/images/kfc-logo-update-new.png\" alt=\"KFC\">\n                    <p class=\"mbr-description mbr-fonts-style mt-2 align-center\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-description\">\n                        Image Description</p>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "ss0qGJUcY6",
-          "_anchor": "image3-14",
+          "_customHTML": "<section class=\"clients1\" group=\"Clients\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"6\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\">\n        <input type=\"range\" inline title=\"Items\" name=\"items\" min=\"1\" max=\"8\" value=\"2\" step=\"1\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div class=\"images-container\" mbr-class=\"{'container-fluid':fullWidth, container:fullWidth==false}\">\n        <div class=\"mbr-section-head\">\n            <h3 class=\"mbr-section-title mbr-fonts-style align-center mb-0\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">\n                <b>Our Clients</b>\n            </h3>\n            <h4 class=\"mbr-section-subtitle mbr-fonts-style align-center mb-0 mt-2\" mbr-theme-style=\"display-5\" mbr-if=\"showSubTitle\" data-app-selector=\".mbr-section-subtitle\">For a better look, use pictures of the same size in this block.\n                elit</h4>\n            <p class=\"mbr-text mbr-fonts-style align-center mt-2\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                Click on an image in this block to replace it. Set the number of logos in Block Parameters. </p>\n        </div>\n        <div class=\"row justify-content-center mt-4\">\n            <div class=\"col-md-3 card\">\n                <img src=\"@PROJECT_PATH@/assets/images/kfc-logo-update-new.png\" alt>\n            </div>\n            <div class=\"col-md-3 card\" mbr-if=\"items > 1\">\n                <img src=\"@PROJECT_PATH@/assets/images/oppo.png\" alt=\"OPPO\">\n            </div>\n            <div class=\"col-md-3 card\" mbr-if=\"items > 2\">\n                <img src=\"../_images/clients/3.png\">\n            </div>\n            <div class=\"col-md-3 card\" mbr-if=\"items > 3\">\n                <img src=\"../_images/clients/4.png\">\n            </div>\n            <div class=\"col-md-3 card\" mbr-if=\"items > 4\">\n                <img src=\"@PROJECT_PATH@/assets/images/kfc-logo-update-new.png\" alt>\n            </div>\n            <div class=\"col-md-3 card\" mbr-if=\"items > 5\">\n                <img src=\"../_images/clients/3.png\">\n            </div>\n            <div class=\"col-md-3 card\" mbr-if=\"items > 6\">\n                <img src=\"../_images/clients/4.png\">\n            </div>\n            <div class=\"col-md-3 card\" mbr-if=\"items > 7\">\n                <img src=\"../_images/clients/5.png\">\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "sElzuNPH9B",
+          "_anchor": "clients1-2k",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_protectedParams": [],
