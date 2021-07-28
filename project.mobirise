@@ -258,6 +258,9 @@
                 "margin-bottom": "1rem"
               }
             },
+            ".row": {
+              "flex-direction": "row-reverse"
+            },
             "& when (@bg-type = 'color')": {
               "background-color": "@bg-value"
             },
@@ -267,12 +270,6 @@
             "& when (@fullWidth)": {
               ".text-wrapper": {
                 "padding": "1rem"
-              }
-            },
-            ".row": {
-              "flex-direction": "row-reverse",
-              "@media (max-width: 991px)": {
-                "flex-direction": "column-reverse"
               }
             },
             "img": {
