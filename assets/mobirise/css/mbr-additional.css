@@ -737,6 +737,13 @@ a {
 .cid-ss0xV0Xvc9 .mbr-text {
   text-align: left;
 }
+.cid-ss0xV0Xvc9 ul {
+  margin-bottom: 1rem;
+}
+.cid-ss0xV0Xvc9 ul li {
+  margin-left: -18px;
+  line-height: 2rem;
+}
 .cid-sEm0b9OhnP {
   padding-top: 5rem;
   padding-bottom: 5rem;
