@@ -1665,6 +1665,8 @@ a {
   font-weight: bold;
 }
 .cid-t2dhyCuu7Z {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
   background-color: #ffffff;
 }
 @media (max-width: 991px) {
@@ -1716,6 +1718,7 @@ a {
   height: 500px;
   object-fit: cover;
   object-position: 50% 50%;
+  z-index: 3;
 }
 @media (max-width: 767px) {
   .cid-t2dhyCuu7Z .box img {
@@ -1754,6 +1757,9 @@ a {
     padding-top: 40px;
     padding-bottom: 50px;
   }
+}
+.cid-t2dhyCuu7Z .align-self-top {
+  z-index: 4;
 }
 .cid-ss08sIhX93 {
   padding-top: 0rem;
