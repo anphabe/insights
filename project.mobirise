@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Khảo sát xu hướng 2022",
-    "currentPage": "thongtinquatang.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -1706,7 +1706,7 @@
               "padding-bottom": "(@paddingBottom * 1rem)"
             },
             "border-bottom": "3px solid #353535",
-            "min-height": "80vh",
+            "min-height": "85vh",
             "& when (@bg-type = \"image\")": {
               "background-image": "url(@bg-value)"
             },
@@ -2184,6 +2184,13 @@
             },
             ".display-2": {
               "line-height": "1.8"
+            },
+            "@media (max-width: 768px)": {
+              "padding-bottom": "(@paddingBottom * 0.5rem)",
+              "padding-top": "(@paddingBottom * 0.5rem)",
+              "img": {
+                "margin-top": "3rem"
+              }
             }
           },
           "_name": "features3",

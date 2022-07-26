@@ -1948,7 +1948,7 @@ a {
 }
 .cid-tcEMZcg0UA {
   border-bottom: 3px solid #353535;
-  min-height: 80vh;
+  min-height: 85vh;
   background-color: #fef5da;
 }
 .cid-tcEMZcg0UA .mbr-fallback-image.disabled {
@@ -2293,6 +2293,15 @@ a {
 }
 .cid-ss08sIhX93 .display-2 {
   line-height: 1.8;
+}
+@media (max-width: 768px) {
+  .cid-ss08sIhX93 {
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+  }
+  .cid-ss08sIhX93 img {
+    margin-top: 3rem;
+  }
 }
 .cid-tcFsMGXxvx {
   padding-top: 6rem;
