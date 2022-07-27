@@ -1813,6 +1813,12 @@
               "-webkit-text-stroke-width": "1.5px",
               "-webkit-text-stroke-color": "#000000",
               "-webkit-text-fill-color": "#89c714"
+            },
+            ".display-1": {
+              "line-height": "1.3",
+              "@media (max-width: 992px)": {
+                "font-size": "4rem"
+              }
             }
           },
           "_name": "header14",

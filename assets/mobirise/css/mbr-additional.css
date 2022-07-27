@@ -2031,6 +2031,14 @@ a {
   -webkit-text-stroke-color: #000000;
   -webkit-text-fill-color: #89c714;
 }
+.cid-tcEMZcg0UA .display-1 {
+  line-height: 1.3;
+}
+@media (max-width: 992px) {
+  .cid-tcEMZcg0UA .display-1 {
+    font-size: 4rem;
+  }
+}
 .cid-t2jwo9nnUd {
   padding-top: 5rem;
   padding-bottom: 0rem;
