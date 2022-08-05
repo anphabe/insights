@@ -17,8 +17,8 @@
         "display1Size": "4",
         "display2Font": "Bungee",
         "display2Size": "3.6",
-        "display5Font": "Farsan",
-        "display5Size": "2",
+        "display5Font": "Square Peg",
+        "display5Size": "2.4",
         "display7Font": "Roboto",
         "display7Size": "1.4",
         "display4Font": "Roboto",
@@ -76,10 +76,15 @@
         "css": "'Bungee', display",
         "name": "Bungee",
         "url": "https://fonts.googleapis.com/css?family=Bungee:400"
+      },
+      {
+        "css": "'Square Peg', handwriting",
+        "name": "Square Peg",
+        "url": "https://fonts.googleapis.com/css?family=Square+Peg:400"
       }
     ],
     "uniqCompNum": 137,
-    "versionPublish": "5.6.5",
+    "versionPublish": "5.6.11",
     "screenshot": "screenshot.png",
     "imageResize": false,
     "favicon": "@PROJECT_PATH@/assets/images/anphabe-01-128x97.png",
