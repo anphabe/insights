@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Khảo sát xu hướng 2022",
-    "currentPage": "index.html",
+    "currentPage": "thongtinquatang.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -2151,7 +2151,7 @@
               "letter-spacing": "0.1rem"
             },
             ".btn": {
-              "padding": "0.6rem 1.2rem",
+              "padding": "0.6rem 1rem",
               "border-radius": "10px !important",
               "position": "relative",
               "min-width": "225px",
