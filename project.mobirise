@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Khảo sát xu hướng 2023",
-    "currentPage": "index.html",
+    "currentPage": "thongtinquatang.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -84,11 +84,11 @@
       }
     ],
     "uniqCompNum": 138,
-    "versionPublish": "5.8.0",
+    "versionPublish": "5.6.13",
     "screenshot": "screenshot.png",
     "imageResize": false,
     "favicon": "@PROJECT_PATH@/assets/images/anphabe-01-128x97.png",
-    "mbrsiteDomain": "ltxvitnmpm",
+    "mbrsiteDomain": "wrqpo8iyht",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -102,10 +102,14 @@
     "global_after_body": "  <!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://tr.anphabe.com/ns.html?id=GTM-MT28LD\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->",
     "witsec-jquery": "3.5.1",
     "usedWebp": false,
+<<<<<<< HEAD
     "witsec-language": false,
     "witsec-anphabe-js": false,
     "publishType": "local",
     "publishPath": "@PROJECT_PATH@"
+=======
+    "witsec-anphabe-js": false
+>>>>>>> deecf489781922b80a1a7b3ab67403b60e36b709
   },
   "pages": {
     "thongtinquatang.html": {
