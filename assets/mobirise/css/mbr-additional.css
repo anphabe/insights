@@ -809,7 +809,7 @@ a {
 }
 .cid-tcGeCOuTFH {
   padding-top: 4rem;
-  padding-bottom: 8rem;
+  padding-bottom: 3rem;
   border-bottom: 3px solid #353535;
   background-color: #faf4db;
 }
@@ -901,11 +901,23 @@ a {
 }
 @media (max-width: 768px) {
   .cid-tcGeCOuTFH {
-    padding-bottom: 4rem;
+    padding-bottom: 1.5rem;
   }
   .cid-tcGeCOuTFH img {
     margin-top: 2rem;
   }
+}
+.cid-tcGeCOuTFH .list_shop {
+  margin-top: 4rem;
+  margin-left: 2.5rem;
+}
+@media (max-width: 768px) {
+  .cid-tcGeCOuTFH .list_shop {
+    margin-left: 0;
+  }
+}
+.cid-tcGeCOuTFH ol {
+  padding-left: 2rem;
 }
 .cid-tcGj7Z3kT8 {
   padding-top: 4rem;
