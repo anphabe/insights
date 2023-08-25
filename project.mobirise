@@ -98,7 +98,7 @@
     "screenshot": "screenshot.png",
     "imageResize": false,
     "favicon": "@PROJECT_PATH@/assets/images/anphabe-01-128x97.png",
-    "mbrsiteDomain": "4bydkm2bpu",
+    "mbrsiteDomain": "mrwahla7ck",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -119,7 +119,7 @@
       "settings": {
         "title": "Khảo sát Xu hướng người đi làm 2023 Thông tin quà tặng | Anphabe",
         "meta_descr": "Chia sẻ ý kiến, nhận liền quà hay!​",
-        "header_custom": "<meta property=\"og:site_name\" content=\"insights.anphabe.com\"/>\n<meta property=\"og:rich_attachment\" content=\"true\"/>\n<meta property=\"og:type\" content=\"website\"/>\n<meta property=\"og:image\" content=\"https://insights.anphabe.com/assets/images/khaosatxuhuong2023-meta.jpg\">\n<meta property=\"og:url\" itemprop=\"url\" content=\"https://insights.anphabe.com\"/>\n<meta name=\"twitter:image:src\" content=\"https://insights.anphabe.com/assets/images/khaosatxuhuong2023-meta.jpg\">\n<meta property=\"og:image\" content=\"https://insights.anphabe.com/assets/images/khaosatxuhuong2023-meta.jpg\">",
+        "header_custom": "<meta property=\"og:site_name\" content=\"insights.anphabe.com\"/>\n<meta property=\"og:rich_attachment\" content=\"true\"/>\n<meta property=\"og:type\" content=\"website\"/>\n<meta property=\"og:image\" content=\"assets/images/khaosatxuhuong2023-meta.jpg\">\n<meta property=\"og:url\" itemprop=\"url\" content=\"https://insights.anphabe.com\"/>\n<meta name=\"twitter:image:src\" content=\"https://insights.anphabe.com/assets/images/khaosatxuhuong2023-meta.jpg\">\n<meta property=\"og:image\" content=\"https://insights.anphabe.com/assets/images/khaosatxuhuong2023-meta.jpg\">",
         "footer_custom": "",
         "html_before": "",
         "order": "3"
@@ -1150,7 +1150,7 @@
         "main": true,
         "title": "Khảo sát Xu hướng người đi làm 2023 | Anphabe",
         "meta_descr": "TĂNG THÍCH NGHI, GIẢM CHIA LY THỜI BIẾN ĐỘNG",
-        "header_custom": "<meta property=\"og:site_name\" content=\"insights.anphabe.com\"/>\n<meta property=\"og:rich_attachment\" content=\"true\"/>\n<meta property=\"og:type\" content=\"website\"/>\n<meta property=\"og:image\" content=\"https://insights.anphabe.com/assets/images/khaosatxuhuong2023-meta.jpg\">\n<meta property=\"og:url\" itemprop=\"url\" content=\"https://insights.anphabe.com\"/>\n<meta name=\"twitter:image:src\" content=\"https://insights.anphabe.com/assets/images/khaosatxuhuong2023-meta.jpg\">\n<meta property=\"og:image\" content=\"https://insights.anphabe.com/assets/images/khaosatxuhuong2023-meta.jpg\">",
+        "header_custom": "<meta property=\"og:site_name\" content=\"insights.anphabe.com\"/>\n<meta property=\"og:rich_attachment\" content=\"true\"/>\n<meta property=\"og:type\" content=\"website\"/>\n<meta property=\"og:image\" content=\"assets/images/khaosatxuhuong2023-meta.jpg\">\n<meta property=\"og:url\" itemprop=\"url\" content=\"https://insights.anphabe.com\"/>\n<meta name=\"twitter:image:src\" content=\"https://insights.anphabe.com/assets/images/khaosatxuhuong2023-meta.jpg\">\n<meta property=\"og:image\" content=\"https://insights.anphabe.com/assets/images/khaosatxuhuong2023-meta.jpg\">",
         "footer_custom": "",
         "html_before": ""
       },
