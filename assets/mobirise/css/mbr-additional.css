@@ -3,19 +3,19 @@ body {
 }
 .display-1 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 3.6rem;
+  font-size: 3.2rem;
   line-height: 1.1;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 4.5rem;
+  font-size: 4rem;
 }
 .display-2 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 3rem;
+  font-size: 2.6rem;
   line-height: 1.1;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 3.75rem;
+  font-size: 3.25rem;
 }
 .display-4 {
   font-family: 'Roboto', sans-serif;
@@ -35,11 +35,11 @@ body {
 }
 .display-7 {
   font-family: 'Roboto', sans-serif;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   line-height: 1.5;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.5rem;
+  font-size: 1.375rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -48,19 +48,19 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 992px) {
   .display-1 {
-    font-size: 2.88rem;
+    font-size: 2.56rem;
   }
 }
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 2.52rem;
-    font-size: calc( 1.91rem + (3.6 - 1.91) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.1 * (1.91rem + (3.6 - 1.91) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.24rem;
+    font-size: calc( 1.77rem + (3.2 - 1.77) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.1 * (1.77rem + (3.2 - 1.77) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 2.4rem;
-    font-size: calc( 1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.3 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.08rem;
+    font-size: calc( 1.56rem + (2.6 - 1.56) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.3 * (1.56rem + (2.6 - 1.56) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.88rem;
@@ -73,9 +73,9 @@ body {
     line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-7 {
-    font-size: 0.96rem;
-    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.88rem;
+    font-size: calc( 1.0350000000000001rem + (1.1 - 1.0350000000000001) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.0350000000000001rem + (1.1 - 1.0350000000000001) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -706,7 +706,7 @@ a {
 }
 .cid-ss0vz7Athm {
   background-image: url("../../../assets/images/banner-thongtinquatang-cover.jpg");
-  min-height: 40vh;
+  min-height: 58vh;
   background-size: cover;
   border-bottom: 3px solid #353535;
 }
@@ -883,7 +883,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-tcGeCOuTFH .text-wrapper {
-    padding: 2rem 4rem;
+    padding: 2rem 0rem;
   }
 }
 .cid-tcGeCOuTFH .row {
@@ -1856,7 +1856,7 @@ a {
 .cid-t2jwo9nnUd {
   padding-top: 2rem;
   padding-bottom: 0rem;
-  background-color: #1957c2;
+  background-color: #1958c2;
 }
 @media (max-width: 768px) {
   .cid-t2jwo9nnUd {
@@ -1872,7 +1872,7 @@ a {
 .cid-tNQ0DD5x01 {
   padding-top: 0rem;
   padding-bottom: 2rem;
-  background-color: #1957c2;
+  background-color: #1958c2;
 }
 .cid-tNQ0DD5x01 .mbr-fallback-image.disabled {
   display: none;
@@ -1887,7 +1887,7 @@ a {
   top: 0;
 }
 .cid-tNQ0DD5x01 .content-wrapper {
-  background: #1957c2;
+  background: #1958c2;
 }
 @media (max-width: 991px) {
   .cid-tNQ0DD5x01 .content-wrapper .image-wrapper {
@@ -1923,7 +1923,7 @@ a {
 .cid-tNPL88wQmY {
   padding-top: 1rem;
   padding-bottom: 4rem;
-  background-color: #1957c2;
+  background-color: #1958c2;
 }
 .cid-tNPL88wQmY .mbr-fallback-image.disabled {
   display: none;
@@ -1951,7 +1951,7 @@ a {
 .cid-tNPL88wQmY .card-wrapper {
   margin-top: 3rem;
   background-color: #fff;
-  padding: 4rem;
+  padding: 4rem 2rem;
 }
 .cid-tNPL88wQmY .row {
   justify-content: center;
@@ -1981,7 +1981,7 @@ a {
 .cid-tcFsMGXxvx {
   padding-top: 2rem;
   padding-bottom: 8rem;
-  background-color: #1957c2;
+  background-color: #1958c2;
 }
 .cid-tcFsMGXxvx .mbr-fallback-image.disabled {
   display: none;
