@@ -78,7 +78,7 @@
         "main": true,
         "title": "Thông tin quà tặng",
         "meta_descr": "",
-        "header_custom": "<meta property=\"og:site_name\" content=\"insights.anphabe.com\"/>\n<meta property=\"og:rich_attachment\" content=\"true\"/>\n<meta property=\"og:type\" content=\"website\"/>\n<meta property=\"og:image\" content=\"assets/images/khaosatspecial.jpg\">\n<meta property=\"og:url\" itemprop=\"url\" content=\"https://insights.anphabe.com\"/>\n<meta name=\"twitter:image:src\" content=\"https://insights.anphabe.com/specialwave/assets/images/khaosatspecial.jpg\">\n<meta property=\"og:image\" content=\"https://insights.anphabe.com/specialwave/assets/images/khaosatspecial.jpg\">",
+        "header_custom": "<meta property=\"og:site_name\" content=\"insights.anphabe.com/specialwave/\"/>\n<meta property=\"og:rich_attachment\" content=\"true\"/>\n<meta property=\"og:type\" content=\"website\"/>\n<meta property=\"og:image\" content=\"specialwave/assets/images/khaosatspecial.jpg\">\n<meta property=\"og:url\" itemprop=\"url\" content=\"https://insights.anphabe.com\"/>\n<meta name=\"twitter:image:src\" content=\"https://insights.anphabe.com/specialwave/assets/images/khaosatspecial.jpg\">\n<meta property=\"og:image\" content=\"https://insights.anphabe.com/specialwave/assets/images/khaosatspecial.jpg\">",
         "footer_custom": "",
         "html_before": ""
       },
