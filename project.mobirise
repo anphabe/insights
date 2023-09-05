@@ -112,7 +112,9 @@
     "global_after_body": "  <!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://tr.anphabe.com/ns.html?id=GTM-MT28LD\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->",
     "witsec-jquery": "3.5.1",
     "usedWebp": false,
-    "witsec-anphabe-js": false
+    "witsec-anphabe-js": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "thongtinquatang.html": {
