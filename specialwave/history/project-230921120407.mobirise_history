@@ -6,7 +6,7 @@
       "name": "mobirise5",
       "title": "Mobirise 5",
       "styling": {
-        "primaryColor": "#ffffff",
+        "primaryColor": "#ebe714",
         "secondaryColor": "#e43f3f",
         "successColor": "#40b0bf",
         "infoColor": "#47b5ed",
@@ -71,7 +71,9 @@
     "witsec-white-label": true,
     "uniqCompNum": 37,
     "versionPublish": "5.9.0",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "giftpage.html": {
@@ -1138,7 +1140,7 @@
               "color": "#fff"
             },
             ".nav-item .nav-link:hover:hover": {
-              "color": "#fff) !important",
+              "color": "rgb(247, 244, 114) !important",
               "text-decoration": "underline"
             },
             ".nav-item .nav-link:active": {
@@ -1578,7 +1580,7 @@
               "color": "#fff"
             },
             ".nav-item .nav-link:hover:hover": {
-              "color": "#fff) !important",
+              "color": "rgb(247, 244, 114) !important",
               "text-decoration": "underline"
             },
             ".nav-item .nav-link:active": {
@@ -1711,7 +1713,7 @@
               "color": "#ffffff"
             },
             ".text-secondary1": {
-              "color": "rgb(229, 255, 0)"
+              "color": "#ebe714"
             },
             "@media (min-width: 992px)": {
               ".ks_btn": {
