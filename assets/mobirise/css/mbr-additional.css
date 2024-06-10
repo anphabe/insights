@@ -2118,7 +2118,7 @@ a {
   width: 90%;
   height: 50%;
   left: 30px;
-  bottom: 122px;
+  bottom: 110px;
   overflow: hidden;
   z-index: 2;
   position: absolute;
@@ -2297,7 +2297,7 @@ a {
 @media (max-width: 768px) {
   .cid-ufhknMAa72 .item-content {
     left: 17px;
-    height: 56%;
+    height: 70%;
   }
 }
 .cid-ufhknMAa72 .caption-gift {
