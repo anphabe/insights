@@ -909,6 +909,109 @@ a {
 .cid-tcGeCOuTFH ol {
   padding-left: 2rem;
 }
+.cid-ufgpZmJ8z9 {
+  padding-top: 4rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
+}
+.cid-ufgpZmJ8z9 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-ufgpZmJ8z9 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 991px) {
+  .cid-ufgpZmJ8z9 .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-ufgpZmJ8z9 img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-ufgpZmJ8z9 .text-wrapper {
+    padding: 2rem 0rem;
+  }
+}
+@media (max-width: 768px) {
+  .cid-ufgpZmJ8z9 {
+    padding-bottom: 1.5rem;
+  }
+  .cid-ufgpZmJ8z9 img {
+    margin-top: 2rem;
+  }
+}
+.cid-ufgpZmJ8z9 .list_shop {
+  margin-top: 4rem;
+  margin-left: 2.5rem;
+}
+@media (max-width: 768px) {
+  .cid-ufgpZmJ8z9 .list_shop {
+    margin-left: 0;
+  }
+}
+.cid-ufgpZmJ8z9 ol {
+  padding-left: 2rem;
+}
+.cid-ufgq0E9kph {
+  padding-top: 4rem;
+  padding-bottom: 3rem;
+  background-color: #fafafa;
+}
+.cid-ufgq0E9kph .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-ufgq0E9kph .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 991px) {
+  .cid-ufgq0E9kph .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-ufgq0E9kph img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-ufgq0E9kph .text-wrapper {
+    padding: 2rem 0rem;
+  }
+}
+.cid-ufgq0E9kph .row {
+  flex-direction: row-reverse;
+}
+@media (max-width: 768px) {
+  .cid-ufgq0E9kph {
+    padding-bottom: 1.5rem;
+  }
+  .cid-ufgq0E9kph img {
+    margin-top: 2rem;
+  }
+}
+.cid-ufgq0E9kph .list_shop {
+  margin-top: 4rem;
+  margin-left: 2.5rem;
+}
+@media (max-width: 768px) {
+  .cid-ufgq0E9kph .list_shop {
+    margin-left: 0;
+  }
+}
+.cid-ufgq0E9kph ol {
+  padding-left: 2rem;
+}
 .cid-tNQbtKUXKX {
   padding-top: 4rem;
   padding-bottom: 0rem;
