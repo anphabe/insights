@@ -2341,15 +2341,15 @@ a {
     font-size: 1.75rem;
   }
 }
-.cid-tNPL88wQmY {
-  padding-top: 1rem;
+.cid-ufhQUzeQAn {
+  padding-top: 4rem;
   padding-bottom: 4rem;
   background-color: #1958c2;
 }
-.cid-tNPL88wQmY .mbr-fallback-image.disabled {
+.cid-ufhQUzeQAn .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-tNPL88wQmY .mbr-fallback-image {
+.cid-ufhQUzeQAn .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -2359,50 +2359,69 @@ a {
   top: 0;
 }
 @media (min-width: 1500px) {
-  .cid-tNPL88wQmY .container {
+  .cid-ufhQUzeQAn .container {
     max-width: 1400px;
   }
 }
-.cid-tNPL88wQmY .mbr-iconfont {
+.cid-ufhQUzeQAn .mbr-iconfont {
   display: block;
-  font-size: 5rem;
-  color: #6592e6;
+  font-size: 3rem;
+  color: #087096;
   margin-bottom: 2rem;
 }
-.cid-tNPL88wQmY .card-wrapper {
+.cid-ufhQUzeQAn .card-wrapper {
   margin-top: 3rem;
-  background-color: #fff;
-  padding: 4rem 2rem;
 }
-.cid-tNPL88wQmY .row {
+.cid-ufhQUzeQAn .row {
   justify-content: center;
 }
-.cid-tNPL88wQmY .card-text {
-  text-align: left;
+.cid-ufhQUzeQAn .card-box {
+  background-color: #ffffff;
+  border: 1px solid #c9c9c9;
+  height: 100%;
 }
-.cid-tNPL88wQmY .mbr-section-title {
-  color: #ffffff;
-}
-.cid-tNPNlcUvMF {
-  padding-top: 2rem;
-  padding-bottom: 0rem;
-  background-color: #1957c2;
-}
-@media (max-width: 768px) {
-  .cid-tNPNlcUvMF {
-    text-align: left!important;
+@media (min-width: 991px) {
+  .cid-ufhQUzeQAn .card-box {
+    padding: 3rem;
   }
 }
-.cid-tNPNlcUvMF .mbr-section-title {
+.cid-ufhQUzeQAn .mbr-section-title {
   color: #ffffff;
 }
-.cid-tNPNlcUvMF .mbr-section-subtitle {
-  color: #ffffff;
+.cid-ufhQUzeQAn .card-text {
+  text-align: center;
+}
+@media (max-width: 768px) {
+  .cid-ufhQUzeQAn .card-wrapper {
+    margin-top: 1rem;
+  }
+  .cid-ufhQUzeQAn .card-box {
+    min-height: 0px;
+    padding: 2rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 992px) {
+  .cid-ufhQUzeQAn .mbr-iconfont {
+    margin-top: 1.5rem;
+  }
+  .cid-ufhQUzeQAn .card-text {
+    padding: 1.5rem;
+  }
+}
+.cid-ufhQUzeQAn .card {
+  transition: transform 0.5s ease;
+}
+.cid-ufhQUzeQAn .card:hover {
+  transform: translateY(-30px);
+  transition: 0.5s ease;
+}
+.cid-ufhQUzeQAn .card:hover .card-box {
+  background: yellowgreen;
 }
 .cid-tcFsMGXxvx {
-  padding-top: 2rem;
-  padding-bottom: 8rem;
-  background-color: #1958c2;
+  padding-top: 3rem;
+  padding-bottom: 4rem;
+  background-image: url("../../../assets/images/mbr.jpg");
 }
 .cid-tcFsMGXxvx .mbr-fallback-image.disabled {
   display: none;
