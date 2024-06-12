@@ -861,9 +861,6 @@ a {
     padding: 2rem;
   }
 }
-.cid-ufrWAtyHDT .row {
-  flex-direction: row-reverse;
-}
 .cid-ufrWAtyHDT ul {
   margin-left: 0;
   padding-left: 17px;
@@ -2373,7 +2370,7 @@ a {
   transition: 0.5s ease;
 }
 .cid-ufhQUzeQAn .card:hover .card-box {
-  background: yellowgreen;
+  background: #d6d6d6;
 }
 .cid-tcFsMGXxvx {
   padding-top: 3rem;
