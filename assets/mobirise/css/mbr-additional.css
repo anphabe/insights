@@ -774,6 +774,9 @@ a {
 .cid-ufo4xOOdrd .ml-n1 {
   margin-left: -1rem;
 }
+.cid-ufo4xOOdrd .highlightcs {
+  color: #fe5a2e;
+}
 .cid-ufo7yY7ZLM {
   padding-top: 0rem;
   padding-bottom: 0rem;
@@ -806,6 +809,9 @@ a {
 .cid-ufo7yY7ZLM a.text-primary:visited,
 .cid-ufo7yY7ZLM a.text-primary:active {
   color: #087096!important;
+}
+.cid-ufo7yY7ZLM .highlightcs {
+  color: #fe5a2e;
 }
 .cid-ufrWBU3f7g {
   padding-top: 0rem;
@@ -876,6 +882,9 @@ a {
 .cid-ufrWAtyHDT a.text-primary:active {
   color: #087096!important;
 }
+.cid-ufrWAtyHDT .highlightcs {
+  color: #fe5a2e;
+}
 .cid-tNQbtKUXKX {
   padding-top: 4rem;
   padding-bottom: 0rem;
@@ -907,6 +916,9 @@ a {
 }
 .cid-tNQbtKUXKX ol.text-list {
   padding-left: 25px;
+}
+.cid-tNQbtKUXKX .highlightcs {
+  color: #fe5a2e;
 }
 .cid-tNQeRKmYRn {
   padding-top: 2rem;
@@ -956,7 +968,7 @@ a {
 }
 .cid-tNQeRKmYRn .mbr-text,
 .cid-tNQeRKmYRn .mbr-section-btn {
-  text-align: center;
+  text-align: left;
 }
 .cid-tNQeRKmYRn .item-title {
   text-align: left;
@@ -965,6 +977,9 @@ a {
 .cid-tNQeRKmYRn .item-subtitle {
   text-align: left;
   color: #232323;
+}
+.cid-tNQeRKmYRn ol {
+  list-style: circle!important;
 }
 .cid-ufs03wrhA4 {
   padding-top: 2rem;
@@ -2086,7 +2101,6 @@ a {
 }
 .cid-ufh5O4LmRZ .caption-gift {
   font-size: 2rem;
-  font-weight: 500;
   line-height: 1.2;
 }
 .cid-ufh5O4LmRZ .background-item {
@@ -2256,7 +2270,6 @@ a {
 }
 .cid-ufhknMAa72 .caption-gift {
   font-size: 1.5rem;
-  font-weight: 500;
   line-height: 1.2;
 }
 .cid-ufhknMAa72 .background-item {
@@ -2368,9 +2381,6 @@ a {
 .cid-ufhQUzeQAn .card:hover {
   transform: translateY(-30px);
   transition: 0.5s ease;
-}
-.cid-ufhQUzeQAn .card:hover .card-box {
-  background: #d6d6d6;
 }
 .cid-tcFsMGXxvx {
   padding-top: 3rem;
