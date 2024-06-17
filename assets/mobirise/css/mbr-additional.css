@@ -26,7 +26,7 @@ body {
   font-size: 1.375rem;
 }
 .display-5 {
-  font-family: 'Square Peg', handwriting;
+  font-family: 'Roboto', sans-serif;
   font-size: 2rem;
   line-height: 1.5;
 }
@@ -1934,6 +1934,56 @@ a {
   position: absolute;
   content: "";
   transition: all 0.2s ease;
+}
+.cid-ufV8Ytr0fW {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #1958c2;
+}
+.cid-ufV8Ytr0fW .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-ufV8Ytr0fW .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-ufV8Ytr0fW .card {
+  border-radius: 0;
+}
+@media (min-width: 992px) {
+  .cid-ufV8Ytr0fW .card {
+    border-right: 1px solid white;
+  }
+}
+@media (max-width: 991px) {
+  .cid-ufV8Ytr0fW .card {
+    border-right: 0px;
+    border-bottom: 1px solid white;
+  }
+}
+.cid-ufV8Ytr0fW .wrapper {
+  padding: 30px 0;
+  background-color: white;
+  border-radius: 10px;
+  margin: 0 1rem;
+}
+.cid-ufV8Ytr0fW .wrapper:hover {
+  background-color: #eeeeee;
+}
+.cid-ufV8Ytr0fW .mbr-section-title {
+  color: #201c24;
+}
+.cid-ufV8Ytr0fW .mbr-text,
+.cid-ufV8Ytr0fW .mbr-section-btn {
+  color: #201c24;
+}
+.cid-ufV8Ytr0fW H3 {
+  color: #353535;
 }
 .cid-t2jwo9nnUd {
   padding-top: 2rem;
