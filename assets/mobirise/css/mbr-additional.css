@@ -105,7 +105,7 @@ body {
   background-color: #47b5ed !important;
 }
 .bg-warning {
-  background-color: #ffe161 !important;
+  background-color: #ff9966 !important;
 }
 .bg-danger {
   background-color: #d28c2f !important;
@@ -200,25 +200,25 @@ body {
 }
 .btn-warning,
 .btn-warning:active {
-  background-color: #ffe161 !important;
-  border-color: #ffe161 !important;
-  color: #614f00 !important;
+  background-color: #ff9966 !important;
+  border-color: #ff9966 !important;
+  color: #ffffff !important;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2);
 }
 .btn-warning:hover,
 .btn-warning:focus,
 .btn-warning.focus,
 .btn-warning.active {
-  color: #0a0800 !important;
-  background-color: #ffd10a !important;
-  border-color: #ffd10a !important;
+  color: #ffffff !important;
+  background-color: #ff5f0f !important;
+  border-color: #ff5f0f !important;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.2);
 }
 .btn-warning.disabled,
 .btn-warning:disabled {
-  color: #614f00 !important;
-  background-color: #ffd10a !important;
-  border-color: #ffd10a !important;
+  color: #ffffff !important;
+  background-color: #ff5f0f !important;
+  border-color: #ff5f0f !important;
 }
 .btn-danger,
 .btn-danger:active {
@@ -374,22 +374,22 @@ body {
 .btn-warning-outline:active {
   background-color: transparent !important;
   border-color: transparent;
-  color: #ffe161;
+  color: #ff9966;
 }
 .btn-warning-outline:hover,
 .btn-warning-outline:focus,
 .btn-warning-outline.focus,
 .btn-warning-outline.active {
-  color: #ffd10a !important;
+  color: #ff5f0f !important;
   background-color: transparent!important;
   border-color: transparent!important;
   box-shadow: none!important;
 }
 .btn-warning-outline.disabled,
 .btn-warning-outline:disabled {
-  color: #614f00 !important;
-  background-color: #ffe161 !important;
-  border-color: #ffe161 !important;
+  color: #ffffff !important;
+  background-color: #ff9966 !important;
+  border-color: #ff9966 !important;
 }
 .btn-danger-outline,
 .btn-danger-outline:active {
@@ -467,7 +467,7 @@ body {
   color: #47b5ed !important;
 }
 .text-warning {
-  color: #ffe161 !important;
+  color: #ff9966 !important;
 }
 .text-danger {
   color: #d28c2f !important;
@@ -501,7 +501,7 @@ a.text-info.active {
 a.text-warning:hover,
 a.text-warning:focus,
 a.text-warning.active {
-  color: #facb00 !important;
+  color: #ff5500 !important;
 }
 a.text-danger:hover,
 a.text-danger:focus,
@@ -544,7 +544,7 @@ a[class*="text-"]:not(.nav-link):not(.dropdown-item):not([role]):not(.navbar-cap
   background-color: #47b5ed;
 }
 .alert-warning {
-  background-color: #ffe161;
+  background-color: #ff9966;
 }
 .alert-danger {
   background-color: #d28c2f;
@@ -887,7 +887,7 @@ a {
     top: 40%;
   }
   .cid-ufgFW3y0HB .navbar .navbar-logo img {
-    height: 3rem !important;
+    height: 4.5rem !important;
   }
   .cid-ufgFW3y0HB .navbar ul.navbar-nav li {
     margin: auto;
@@ -971,7 +971,7 @@ a {
 .cid-ufgFW3y0HB button.navbar-toggler {
   outline: none;
   width: 31px;
-  height: 20px;
+  height: 22px;
   cursor: pointer;
   transition: all 0.2s;
   position: relative;
@@ -1083,11 +1083,15 @@ a {
   color: #2c2c2c!important;
   font-weight: bold;
 }
+@media (max-width: 768px) {
+  .cid-ufgFW3y0HB .navbar-dropdown {
+    padding: 0;
+  }
+}
 .cid-ss0vz7Athm {
   background-image: url("../../../assets/images/thongtinquatang-cover-1.jpg");
   min-height: 58vh;
   background-size: cover;
-  border-bottom: 3px solid #353535;
 }
 @media (max-width: 540px) {
   .cid-ss0vz7Athm {
@@ -1675,7 +1679,7 @@ a {
     top: 40%;
   }
   .cid-ufgFW3y0HB .navbar .navbar-logo img {
-    height: 3rem !important;
+    height: 4.5rem !important;
   }
   .cid-ufgFW3y0HB .navbar ul.navbar-nav li {
     margin: auto;
@@ -1759,7 +1763,7 @@ a {
 .cid-ufgFW3y0HB button.navbar-toggler {
   outline: none;
   width: 31px;
-  height: 20px;
+  height: 22px;
   cursor: pointer;
   transition: all 0.2s;
   position: relative;
@@ -1871,6 +1875,11 @@ a {
   color: #2c2c2c!important;
   font-weight: bold;
 }
+@media (max-width: 768px) {
+  .cid-ufgFW3y0HB .navbar-dropdown {
+    padding: 0;
+  }
+}
 .cid-tNOUapfiFb {
   min-height: 90vh;
   background-image: url("../../../assets/images/bg-cover.jpg");
@@ -1932,13 +1941,10 @@ a {
   transition: all 400ms ease;
   color: #fff !important;
 }
-.cid-tNOUapfiFb .btn-secondary {
+.cid-tNOUapfiFb .btn-survey {
   width: 100%;
   text-align: left!important;
-}
-.cid-tNOUapfiFb .btn-secondary,
-.cid-tNOUapfiFb .btn-secondary:active {
-  background-color: rgba(255, 255, 255, 0.6) !important;
+  background-color: rgba(255, 255, 255, 0.4) !important;
   border-color: #ffffff !important;
   border-width: 2px;
   color: #414141 !important;
@@ -1962,8 +1968,21 @@ a {
 }
 @media (max-width: 768px) {
   .cid-tNOUapfiFb {
-    padding-bottom: 3rem;
+    padding-bottom: 1rem;
   }
+  .cid-tNOUapfiFb .btn-survey {
+    width: 90%!important;
+  }
+}
+.cid-tNOUapfiFb .btn-secondary {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+.cid-tNOUapfiFb .btn-survey:hover {
+  background-color: #ffffff !important;
+}
+.cid-tNOUapfiFb .coming-soon {
+  background-color: #414141;
 }
 .cid-ugcJF7U7MR {
   padding-top: 4rem;
@@ -2033,11 +2052,23 @@ a {
   padding-left: 2rem;
   padding-right: 2rem;
 }
+.cid-ugcJF7U7MR .btn-secondary-outline:hover {
+  background-color: #fb596d!important;
+  color: #fff!important;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
 @media (max-width: 768px) {
+  .cid-ugcJF7U7MR {
+    padding-top: 2rem;
+  }
   .cid-ugcJF7U7MR .card-box {
-    padding: 3rem 2rem 0;
+    padding: 4rem 2rem 0;
     height: auto!important;
     min-height: auto!important;
+  }
+  .cid-ugcJF7U7MR .item:not(:nth-last-child(1)) {
+    margin-bottom: 0;
   }
 }
 .cid-ug8wzzwPxT {
@@ -2116,6 +2147,12 @@ a {
   padding-left: 2rem;
   padding-right: 2rem;
 }
+.cid-ug8wzzwPxT .btn-secondary-outline:hover {
+  background-color: #fb596d!important;
+  color: #fff!important;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
 .cid-ug8wzzwPxT .mbr-section-subtitle {
   color: #232323;
 }
@@ -2123,6 +2160,9 @@ a {
   .cid-ug8wzzwPxT {
     padding-top: 2rem;
     padding-bottom: 0rem;
+  }
+  .cid-ug8wzzwPxT .item {
+    margin-bottom: 1rem;
   }
 }
 .cid-ugd2EjPpJE {
@@ -2178,6 +2218,12 @@ a {
 .cid-ugd2EjPpJE .btn-secondary-outline:hover,
 .cid-ugd2EjPpJE .btn-secondary-outline:link {
   border: 2px solid #fb596d!important;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+.cid-ugd2EjPpJE .btn-secondary-outline:hover {
+  background-color: #fb596d!important;
+  color: #fff!important;
   padding-left: 2rem;
   padding-right: 2rem;
 }
@@ -2551,7 +2597,7 @@ a {
     top: 40%;
   }
   .cid-ufgFW3y0HB .navbar .navbar-logo img {
-    height: 3rem !important;
+    height: 4.5rem !important;
   }
   .cid-ufgFW3y0HB .navbar ul.navbar-nav li {
     margin: auto;
@@ -2635,7 +2681,7 @@ a {
 .cid-ufgFW3y0HB button.navbar-toggler {
   outline: none;
   width: 31px;
-  height: 20px;
+  height: 22px;
   cursor: pointer;
   transition: all 0.2s;
   position: relative;
@@ -2746,6 +2792,11 @@ a {
 .cid-ufgFW3y0HB .btn-primary:active {
   color: #2c2c2c!important;
   font-weight: bold;
+}
+@media (max-width: 768px) {
+  .cid-ufgFW3y0HB .navbar-dropdown {
+    padding: 0;
+  }
 }
 .cid-tRBvNtcFd8 {
   background-image: url("../../../assets/images/banner-thongtinquatang-cover-2.jpg");
