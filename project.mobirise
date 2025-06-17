@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "KHẢO SÁT XU HƯỚNG NGƯỜI ĐI LÀM 2025",
-    "currentPage": "thongtinquatang.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -61,7 +61,7 @@
         "url": "https://fonts.googleapis.com/css?family=Mulish:200,300,400,500,600,700,800,900,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/anphabe-01.png",
     "mbrsiteDomain": "m5t0ieyh0w",
     "imageResize": false,
     "usedWebp": false,
