@@ -1697,6 +1697,19 @@ a {
 .cid-uOlyjYvdJC .mbr-section-title {
   border-bottom: 1px solid #acacac;
 }
+@media (min-width: 768px) {
+  .cid-uOlyjYvdJC .mscc-logo {
+    width: 400px!important;
+  }
+}
+@media (max-width: 768px) {
+  .cid-uOlyjYvdJC .mscc-logo {
+    display: none!important;
+  }
+  .cid-uOlyjYvdJC .mssc-mobile {
+    display: block!important;
+  }
+}
 .cid-uNNZlUhY2v {
   padding-top: 2rem;
   padding-bottom: 2rem;
@@ -2982,6 +2995,19 @@ a {
 }
 .cid-uOh3aPwEkI .mbr-section-title {
   border-bottom: 1px solid #acacac;
+}
+@media (min-width: 768px) {
+  .cid-uOh3aPwEkI .mscc-logo {
+    width: 400px!important;
+  }
+}
+@media (max-width: 768px) {
+  .cid-uOh3aPwEkI .mscc-logo {
+    display: none!important;
+  }
+  .cid-uOh3aPwEkI .mssc-mobile {
+    display: block!important;
+  }
 }
 .cid-uOh3aPLDm6 {
   padding-top: 2rem;
